@@ -1,0 +1,8 @@
+a#v-pills-home-tab.nav-link{
+  color:blue
+}
+.estimate{
+  display: flex;
+  align-content: space-between;
+}
+
