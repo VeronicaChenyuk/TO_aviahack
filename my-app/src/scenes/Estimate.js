@@ -19,5 +19,6 @@ class Estimate extends Component {
     </div>
     )
  }
-}
+}// Try to do it
+
 export default Estimate;
